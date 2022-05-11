@@ -1,0 +1,82 @@
+
+{
+    "students" : [
+        {
+       "id":1,
+       "name": "S A Asha",
+       "age" : 20,
+       "gender" :"Female",
+       "skill":"MERN stack Developer"
+       
+    },
+        {
+       "id":2,
+       "name": "Krisna Kanta Roy",
+       "age" : 25,
+       "gender" :"Male",
+       "skill":"Laravel Developer"
+       
+    },
+        {
+       "id":3,
+       "name": "Hasan Mahmud",
+       "age" : 24,
+       "gender" :"Male",
+       "skill":"Django Developer"
+       
+    },
+        {
+       "id":3,
+       "name": "Ayesha Akter",
+       "age" : 23,
+       "gender" :"Female",
+       "skill":"WordPress Developer"
+       
+    },
+        {
+       "id":5,
+       "name": "Hasan Mahmud",
+       "age" : 25,
+       "gender" :"Male",
+       "skill":"Java Developer"
+       
+    }
+   ],
+   "Teachers":[
+       {
+        "name": "Asraful Haque",
+        "age" : 35,
+        "gender" :"Male",
+        "skill":"MERN stack Developer",
+        "work-experience":15
+       },
+       {
+        "name": "Jillur Rahman",
+        "age" : 28,
+        "gender" :"Male",
+        "skill":"WordPress Developer",
+        "work-experience":8
+       },
+       {
+        "name": "Rafikul Islam",
+        "age" : 28,
+        "gender" :"Male",
+        "skill":"Laravel Developer",
+        "work-experience":8
+       },
+       {
+        "name": "Khalekkujjam Akash",
+        "age" : 26,
+        "gender" :"Male",
+        "skill":"Django Developer",
+        "work-experience":6
+       },
+       {
+        "name": "Emon Khan",
+        "age" : 28,
+        "gender" :"Male",
+        "skill":"GoLan Developer",
+        "work-experience":6
+       }
+   ]
+}
